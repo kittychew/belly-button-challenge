@@ -123,7 +123,6 @@ function optionChanged(newSample) {
   // Build charts and metadata panel each time a new sample is selected
   console.log("New Sample: ", newSample);
   buildCharts(newSample);
-  buildBubbleChart(newSample);
   buildMetadata(newSample);
 
 }
