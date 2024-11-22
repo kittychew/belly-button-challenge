@@ -32,3 +32,7 @@ This project is an interactive dashboard built using D3.js and Plotly to visuali
 3. After selecting a sample, the page will display the metadata and render the interactive bar and bubble charts.
 
 4. Explore the charts to learn more about the test subject's bacterial diversity.
+
+## Help and Acknowledgments
+
+This project was assisted with ChatGPT. 
